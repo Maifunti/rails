@@ -302,7 +302,6 @@ GEM
       net-pop
       net-smtp
     marcel (1.0.2)
-    matrix (0.4.2)
     memoist (0.16.2)
     method_source (1.0.0)
     mini_magick (4.11.0)
@@ -557,15 +556,11 @@ DEPENDENCIES
   kindlerb (~> 1.2.0)
   libxml-ruby
   listen (~> 3.2)!
-  matrix
   minitest (< 5.15.0)
   minitest-bisect
   minitest-reporters
   minitest-retry
   mysql2 (>= 0.4.10)
-  net-imap
-  net-pop
-  net-smtp
   nokogiri (>= 1.8.1)
   pg (>= 0.18.0)
   psych (~> 3.0)
